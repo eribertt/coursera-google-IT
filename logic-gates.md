@@ -10,4 +10,6 @@ note the github repo to save notes https://github.com/eribertto/coursera-google-
 july 6 resume Coursera course 
 readup Logic Gates https://simple.wikipedia.org/wiki/Logic_gate https://www.youtube.com/watch?v=gI-qXk7XojA
 
+note: review ascii to binary to decimal in YT videos, you are struggling with the concepts!
+
 
