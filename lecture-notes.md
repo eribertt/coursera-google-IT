@@ -3,6 +3,13 @@
 
 
 --
+supplemental reading for data storage https://en.wikipedia.org/wiki/Kilobyte
+
+done: resumed to CPU.
+about 64 bit computing https://en.wikipedia.org/wiki/64-bit_computing#32-bit_vs_64-bit%E2%80%A6
+
+
+
 july 6 resume Coursera course 
 readup Logic Gates https://simple.wikipedia.org/wiki/Logic_gate https://www.youtube.com/watch?v=gI-qXk7XojA
 
@@ -13,9 +20,6 @@ note: passed week 1 graded assessment quiz scored 100%
 note: do supplemental reading:
 1. done: cpu cache https://en.wikipedia.org/wiki/CPU_cache
 2. done: cpu overclock https://www.digitaltrends.com/computing/how-to-overclock-your-cpu/
-
-done: resumed to CPU.
-about 64 bit computing https://en.wikipedia.org/wiki/64-bit_computing#32-bit_vs_64-bit%E2%80%A6
 
 
 --
