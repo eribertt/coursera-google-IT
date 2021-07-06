@@ -12,4 +12,6 @@ readup Logic Gates https://simple.wikipedia.org/wiki/Logic_gate https://www.yout
 
 note: review ascii to binary to decimal in YT videos, you are struggling with the concepts!
 
+note: passed week 1 graded assessment quiz scored 100%
+
 
