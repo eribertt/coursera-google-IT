@@ -14,7 +14,9 @@ note: do supplemental reading:
 1. done: cpu cache https://en.wikipedia.org/wiki/CPU_cache
 2. done: cpu overclock https://www.digitaltrends.com/computing/how-to-overclock-your-cpu/
 
-note: next session resume to CPU.
+done: resumed to CPU.
+about 64 bit computing https://en.wikipedia.org/wiki/64-bit_computing#32-bit_vs_64-bit%E2%80%A6
+
 
 --
 july 3/21
