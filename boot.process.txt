@@ -1,0 +1,29 @@
+In this lesson, we're going to learn how our operating system starts up. As an
+IT support specialist, you'll probably work on lots of computers that won't
+start. It's important to know the steps an operating system takes so you can
+help diagnose the sort of issue. Booting a computer or starting a computer comes
+from the phrase to pull oneself up by one's bootstraps. Basically, it means to
+start from nothing and follow a series of steps to arrive at a fully operational
+system. When we start up a computer, we use the term boot. For most operating
+systems, the boot process follows a general pattern. Much like how we have
+different cars start up in the same way. Put in the key, turn on the ignition,
+et cetera. Here's a rundown of the boot process. First, the computer is powered
+on. Remember what we learned about the BIOS/UEFI in earlier videos? The
+BIOS/UEFI is a low-level software that initializes our computer's hardware to
+make sure everything is good to go. So next, the BIOS/UEFI runs a process called
+the Power On Self Test or POST. The POST performs a series of diagnostic tests
+to make sure that the computer is in proper working order. Next, depending on
+the BIOS/UEFI configuration, a boot device will be selected. Devices that are
+attached to our system, like hard drives, USB drives, CD drives, et cetera are
+configured in a certain boot order. The devices will be checked in this order
+and the computer will search for what's known as a bootloader. The bootloader is
+a small program that loads the operating system. Once our computer finds a
+bootloader on a device in the listed order, it will start to execute this
+program. This will then start to load a larger and more complex program and
+eventually loads our operating system. Once the bootloader loads up our
+operating system, our kernel gets loaded. The kernel controls access to our
+computers resources. It also loads up drivers and more, so that our hardware can
+talk to our software. Next, essential system processes and user space items are
+launched. These include processes like user log in, spinning up a desktop
+environment, and more which basically allows us to interact with our system. And
+that's it. After these simple steps, you'll be able to get to work.
